@@ -1,0 +1,63 @@
+{
+  "brand": {
+    "shortName": "CarCare",
+    "fullName": "CarCare",
+    "taglineShort": "Car care and detailing gear tracked like a service log.",
+    "identity": {
+      "palette": {
+        "primary": "#1E40AF",
+        "accent": "#0F172A",
+        "cream": "#F8FAFC",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Barlow Condensed",
+        "body": "Barlow",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/carcare-mark.svg",
+        "svgPublicPath": "/brand/carcare-mark.png",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "CAR CARE & DETAILING",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Car care & detailing",
+    "h1": "Detail smarter — track car care gear without the markup creep",
+    "subhead": "We compare wash kits, wax, and detailing tools on true per-wash cost — and flag when automotive bundles inflate the basics you use every month.",
+    "ctaPrimaryLabel": "Browse car care guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "Our standards",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial · No brand sponsorships · We name the product, we name the budget swap",
+    "heroImageUrl": "/hero/carcare-hero.jpg",
+    "heroVideoUrl": "/hero/carcare-hero.mp4"
+  },
+  "palette": {
+    "primary": "#1E40AF",
+    "secondary": "#93C5FD",
+    "accent": "#0F172A",
+    "surface": "#F8FAFC",
+    "ink": "#0F172A"
+  },
+  "analytics": {
+    "ga_measurement_id": "G-W2WHE10F4S"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "persona": {
+    "name": "Dana Wolff",
+    "pseudonymHint": "Dana Wolff"
+  },
+  "disablePhonePromos": true,
+  "supportEmail": "hello@carcaretips.org"
+}

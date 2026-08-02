@@ -1,0 +1,103 @@
+{
+  "brand": {
+    "shortName": "CarCare",
+    "fullName": "CarCare",
+    "taglineShort": "Car care and detailing gear tracked like a service log.",
+    "identity": {
+      "palette": {
+        "primary": "#1E40AF",
+        "accent": "#0F172A",
+        "cream": "#F8FAFC",
+        "ink": "#0F172A"
+      },
+      "fonts": {
+        "display": "Barlow Condensed",
+        "body": "Barlow",
+        "mono": "JetBrains Mono"
+      },
+      "mark": {
+        "svgPath": "brand/carcare-mark.svg",
+        "svgPublicPath": "/brand/carcare-mark.png",
+        "sizeRem": 1.75,
+        "position": "left-of-wordmark"
+      },
+      "wordmark": {
+        "weight": 600,
+        "tracking": "tight",
+        "case": "normal"
+      },
+      "headerVariant": "minimal",
+      "eyebrowText": "CAR CARE & DETAILING",
+      "fontCssHref": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700&family=Barlow:wght@400;500;600;700&display=swap"
+    }
+  },
+  "homepage": {
+    "eyebrow": "Car care & detailing",
+    "h1": "Detail smarter \u2014 track car care gear without the markup creep",
+    "subhead": "We compare wash kits, wax, and detailing tools on true per-wash cost \u2014 and flag when automotive bundles inflate the basics you use every month.",
+    "ctaPrimaryLabel": "Browse car care guides",
+    "ctaPrimaryHref": "/articles",
+    "ctaSecondaryLabel": "Our standards",
+    "ctaSecondaryHref": "/methodology",
+    "trustLine": "Independent editorial \u00b7 No brand sponsorships \u00b7 We name the product, we name the budget swap",
+    "heroImageUrl": "/hero/carcare-hero.jpg",
+    "heroVideoUrl": "/hero/carcare-hero.mp4"
+  },
+  "palette": {
+    "primary": "#1E40AF",
+    "secondary": "#93C5FD",
+    "accent": "#0F172A",
+    "surface": "#F8FAFC",
+    "ink": "#0F172A"
+  },
+  "newsletter": {
+    "title": "Stay ahead of the next price hike",
+    "subtitle": "Join CarCare \u2014 we email when everyday staples jump and point you to cheaper refills and reusables."
+  },
+  "analytics": {
+    "ga_measurement_id": "G-N3K6W3L1J8",
+    "ga_property_id": "540664728",
+    "search_console_property": "https://carcaretips.com/"
+  },
+  "defaultAuthorSlug": "dana-wolff",
+  "editorial": {
+    "author_slug": "dana-wolff"
+  },
+  "navigation": [
+    {
+      "href": "/",
+      "label": "Home"
+    },
+    {
+      "href": "/pillars",
+      "label": "Guides"
+    },
+    {
+      "href": "/articles",
+      "label": "Articles"
+    },
+    {
+      "href": "/products",
+      "label": "Reviews"
+    },
+    {
+      "href": "/about",
+      "label": "About"
+    }
+  ],
+  "supportEmail": "hello@carcaretips.org",
+  "monetization": {
+    "default_topic": "cleaning",
+    "amazon_associate_tag": "carcare-20",
+    "pinterest": {
+      "pin_templates": [
+        "routine-card",
+        "ingredient-spotlight",
+        "before-after",
+        "product-strip"
+      ],
+      "rotate_by": "article_slug"
+    }
+  },
+  "disablePhonePromos": true
+}
