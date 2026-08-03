@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0F45C2YHV?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:02:36+00:00'
+lastSeen: '2026-08-03T15:03:35+00:00'
 slug: b0f45c2yhv-b0f45c2yhv
 cardTitle: CERAKOTE® Rapid Ceramic Tire Coat - Long-Lasting Deep Black Tire Shine
 cardPick: Solid pick for most readers

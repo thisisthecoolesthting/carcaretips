@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B08PBX22ZC?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:02:36+00:00'
+lastSeen: '2026-08-03T15:03:35+00:00'
 slug: b08pbx22zc-b08pbx22zc
 cardTitle: MR.SIGA Professional Microfiber Towels for Cars, Scratch Free, 6 Pack
 cardPick: Solid pick for most readers

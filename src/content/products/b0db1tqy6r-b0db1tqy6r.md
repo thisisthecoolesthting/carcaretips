@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DB1TQY6R?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:02:36+00:00'
+lastSeen: '2026-08-03T15:03:35+00:00'
 slug: b0db1tqy6r-b0db1tqy6r
 cardTitle: KKV 2-Pack Microfiber Towels (35"x 24") Extra Large Ultra Absorbent Dr
 cardPick: Solid pick for most readers

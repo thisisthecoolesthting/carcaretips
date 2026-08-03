@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0BL2BF31F?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:02:36+00:00'
+lastSeen: '2026-08-03T15:03:35+00:00'
 slug: b0bl2bf31f-b0bl2bf31f
 cardTitle: 'HOMEXCEL Professional Large Microfiber Car Drying Towels 2 Pack, Lint '
 cardPick: Solid pick for most readers
