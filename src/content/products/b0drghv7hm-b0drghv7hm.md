@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DRGHV7HM?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0drghv7hm-b0drghv7hm
 cardTitle: KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cle
 cardPick: Solid pick for most readers

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B09WJMKM22?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b09wjmkm22-b09wjmkm22
 cardTitle: 'Cristal Products Untouchable Tire Shine Spray – Long-Lasting Wet Tire '
 cardPick: Solid pick for most readers

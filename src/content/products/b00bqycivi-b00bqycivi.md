@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B00BQYCIVI?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b00bqycivi-b00bqycivi
 cardTitle: 'Chemical Guys, Waffle Weave Gray Matter Microfiber Drying Towel, 25 x '
 cardPick: Solid pick for most readers

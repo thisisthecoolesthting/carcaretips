@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0FSC4Y2MH?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0fsc4y2mh-b0fsc4y2mh
 cardTitle: UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool f
 cardPick: Solid pick for most readers

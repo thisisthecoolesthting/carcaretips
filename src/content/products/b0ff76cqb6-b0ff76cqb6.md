@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0FF76CQB6?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0ff76cqb6-b0ff76cqb6
 cardTitle: Meguiar's Hot Shine High Gloss Tire Coating - Get Long-Lasting Tire Pr
 cardPick: Solid pick for most readers

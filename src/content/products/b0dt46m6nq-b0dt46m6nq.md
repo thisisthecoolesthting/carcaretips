@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DT46M6NQ?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0dt46m6nq-b0dt46m6nq
 cardTitle: 2-Pack 1300GSM Microfiber Car Drying Towel, Ultra-Large & Lint-Free
 cardPick: Solid pick for most readers

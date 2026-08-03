@@ -7,15 +7,15 @@ pillarSlug: subscription-savings
 cardTitle: Audit Your Subscriptions
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07VVK39F7"
-- "B09W9MF63Y"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B07VVK39F7
+- B09W9MF63Y
+- B0CGW2TFSV
+- B0CGW48C3G
 status: published
 tags:
 - subscription creep
@@ -153,3 +153,12 @@ This single habit prevents the subscription creep that catches most households o
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish that Create](/products/b06w5fxcms-b06w5fxcms/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

@@ -7,23 +7,23 @@ pillarSlug: refill-and-reuse
 cardTitle: The Best Reusable Water Bottles to Save Money and the Planet
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B001QY8QXM"
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B083BFPGD8"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0GF25F12C"
+- B001QY8QXM
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07RVMZNYR
+- B083BFPGD8
+- B0846GFNCQ
+- B0848Q34F8
+- B08PZBPXLZ
+- B093TCYF9T
+- B099NZC4PB
+- B0C7ZTV376
+- B0CB75LML9
+- B0GF25F12C
 status: published
 tags:
 - water bottle price hike
@@ -235,3 +235,12 @@ Before investing in filtration, check your local:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's](/products/b0009iqzfm-b0009iqzfm/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[SMINDER 2-Pack 1200 GSM Car Drying Towels – Microfiber Towels for Cars (36" x 24](/products/b0dpztlvhl-b0dpztlvhl/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish that Create](/products/b06w5fxcms-b06w5fxcms/)** — see current price and specs.
+

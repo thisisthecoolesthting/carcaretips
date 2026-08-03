@@ -7,16 +7,16 @@ pillarSlug: refill-reuse-save
 cardTitle: DIY Laundry Detergent Refills
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B000H0XFCS"
-- "B0014D3N0Q"
-- "B001QY8QXM"
-- "B00762AHTE"
-- "B00CBBJ5KY"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B09W9MF63Y"
+- B000H0XFCS
+- B0014D3N0Q
+- B001QY8QXM
+- B00762AHTE
+- B00CBBJ5KY
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B09W9MF63Y
 status: published
 tags:
 - laundry detergent price hike
@@ -204,3 +204,12 @@ This hybrid system saves $200+/year while maintaining laundry quality. Our parti
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+

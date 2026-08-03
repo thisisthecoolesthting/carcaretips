@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0FQ22DR4N?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0fq22dr4n-b0fq22dr4n
 cardTitle: TTRCB 2 Pack Car Drying Towels (48" x 24"), Extra Large Microfiber Tow
 cardPick: Solid pick for most readers

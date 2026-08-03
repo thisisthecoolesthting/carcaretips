@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Make Zero-Waste Cleaning Products from Kitchen Ingredients
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:17:16Z'
-
 relatedProducts:
-- "B000H0XFCS"
-- "B0014D3N0Q"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07F97MPYT"
-- "B07VVK39F7"
-- "B09W9MF63Y"
-- "B0BVYBVHK5"
+- B000H0XFCS
+- B0014D3N0Q
+- B073Q8P6CQ
+- B07C11YW88
+- B07F97MPYT
+- B07VVK39F7
+- B09W9MF63Y
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-make-zero-waste-cleaning-products-from-kitchen-ingredients.jpg
 subtopic: cleaning
@@ -199,3 +198,12 @@ Concentrated refills and DIY mixes minimize packaging volume and material, givin
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Cristal Products Untouchable Tire Shine Spray – Long-Lasting Wet Tire Finish for](/products/b09wjmkm22-b09wjmkm22/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

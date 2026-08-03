@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DK45QYWL?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0dk45qywl-b0dk45qywl
 cardTitle: Armor All Podium Series Hybrid Ceramic High Gloss Tire Shine Spray, 16
 cardPick: Solid pick for most readers

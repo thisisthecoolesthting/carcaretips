@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DPZTLVHL?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0dpztlvhl-b0dpztlvhl
 cardTitle: SMINDER 2-Pack 1200 GSM Car Drying Towels – Microfiber Towels for Cars
 cardPick: Solid pick for most readers

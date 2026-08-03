@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Your Own All-Purpose Cleaner Safely
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:57:55Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B07C11YW88"
-- "B07D5DN269"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B09DY7CCW5"
-- "B0BVYBVHK5"
+- B00CAZAU62
+- B07C11YW88
+- B07D5DN269
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B09DY7CCW5
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/how-to-refill-your-own-all-purpose-cleaner-safely.jpg
 subtopic: cleaning
@@ -233,3 +232,12 @@ To maximize impact: prioritize concentrates with clear dilution instructions, bu
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Armor All Tire Shine Spray, Even Shine, Minimal Overspray, 2 Count](/products/b09tcx221k-b09tcx221k/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Cristal Products Untouchable Tire Shine Spray – Long-Lasting Wet Tire Finish for](/products/b09wjmkm22-b09wjmkm22/)** — see current price and specs.
+- **[Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated Tire Shine ](/products/b0cf2lk6gx-b0cf2lk6gx/)** — see current price and specs.
+

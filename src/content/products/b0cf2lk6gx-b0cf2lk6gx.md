@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0CF2LK6GX?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0cf2lk6gx-b0cf2lk6gx
 cardTitle: Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated T
 cardPick: Solid pick for most readers

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0D8W4TGKH?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:58:13+00:00'
+lastSeen: '2026-08-03T14:59:32+00:00'
 slug: b0d8w4tgkh-b0d8w4tgkh
 cardTitle: Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Pr
 cardPick: Solid pick for most readers

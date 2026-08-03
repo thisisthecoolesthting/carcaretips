@@ -7,20 +7,20 @@ pillarSlug: subscription-savings
 cardTitle: Stop the Bleed
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 relatedProducts:
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B08PZBPXLZ"
-- "B093TCYF9T"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0DWD9NQ57"
-- "B0F54TYKF9"
+- B004QM8SLG
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07G82D89G
+- B07RVMZNYR
+- B07VVK39F7
+- B08PZBPXLZ
+- B093TCYF9T
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0DWD9NQ57
+- B0F54TYKF9
 status: published
 tags:
 - subscription creep
@@ -267,3 +267,12 @@ For software, always ask about educational discounts (Adobe offers 60% off) or s
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

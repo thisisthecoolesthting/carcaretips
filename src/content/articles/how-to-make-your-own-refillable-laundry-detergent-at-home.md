@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Make Your Own Refillable Laundry Detergent at Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:51:47Z'
-
 relatedProducts:
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B08GX3K9YS"
-- "B08PZBPXLZ"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B07C11YW88
+- B07VVK39F7
+- B082Y7X9H5
+- B08GX3K9YS
+- B08PZBPXLZ
+- B09VXQ221K
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-laundry-detergent-at-home.jpg
 subtopic: cleaning
@@ -215,3 +214,11 @@ Making homemade refillable laundry detergent helps reduce plastic waste and offe
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

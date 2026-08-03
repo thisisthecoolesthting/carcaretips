@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Make Your Own Refillable Air Freshener at Home
 cardPick: Refillable personal care picks vetted for plastic reduction and daily use.
 updatedAt: '2026-05-12T10:08:25Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07VVK39F7"
-- "B09W9MF63Y"
+- B00063RWT8
+- B001QY8QXM
+- B00CAZAU62
+- B073Q8P6CQ
+- B074ND5RDT
+- B07D5DN269
+- B07VVK39F7
+- B09W9MF63Y
 status: published
 heroImage: /images/hero/how-to-make-your-own-refillable-air-freshener-at-home.jpg
 subtopic: personal-care
@@ -188,3 +187,8 @@ DIY air fresheners give you control but also responsibility:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+
