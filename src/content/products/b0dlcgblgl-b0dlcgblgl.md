@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DLCGBLGL?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0dlcgblgl-b0dlcgblgl
 cardTitle: Meguiar's G250816 - Ultimate Insane Shine Tire Spray-16oz
 cardPick: Solid pick for most readers

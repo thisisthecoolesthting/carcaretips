@@ -7,15 +7,15 @@ pillarSlug: refillwatch-pillar-3
 cardTitle: '''Printer Ink Economics'
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00CBBJ5KY"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00CBBJ5KY
+- B00WSAXBQ0
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 tags:
 - printer ink comparison
@@ -178,3 +178,12 @@ Continuous systems delivered strong results for small businesses printing 300+ p
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)** — see current price and specs.
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Bike Repair and Maintenance For Dummies](/products/0470415800-0470415800/)** — see current price and specs.
+- **[Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)](/products/b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+

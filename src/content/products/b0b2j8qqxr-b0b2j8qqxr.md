@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0B2J8QQXR?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0b2j8qqxr-b0b2j8qqxr
 cardTitle: 'Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, '
 cardPick: Solid pick for most readers

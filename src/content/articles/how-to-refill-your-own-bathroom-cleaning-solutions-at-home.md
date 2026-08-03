@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: How to Refill Your Own Bathroom Cleaning Solutions at Home
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:03:12Z'
-
 relatedProducts:
-- "B00CAZAU62"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B0BVYBVHK5"
-- "B0CYJV9X52"
+- B00CAZAU62
+- B00WSAXBQ0
+- B07C11YW88
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B0BVYBVHK5
+- B0CYJV9X52
 status: published
 heroImage: /images/hero/how-to-refill-your-own-bathroom-cleaning-solutions-at-home.jpg
 subtopic: cleaning
@@ -217,3 +216,11 @@ Single-use cartridges and heavily packaged refills can sometimes undermine the e
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

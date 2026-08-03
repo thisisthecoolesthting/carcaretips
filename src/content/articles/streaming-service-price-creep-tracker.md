@@ -7,19 +7,19 @@ pillarSlug: subscription-management
 cardTitle: Tracking Streaming Service Price Creep
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B073Q8P6CQ"
-- "B07D5DN269"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B07YPR2DGH"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B08PZBPXLZ"
-- "B09DV14ZZL"
-- "B09WDBHXB3"
-- "B0B7MKRR58"
+- B00CAZAU62
+- B073Q8P6CQ
+- B07D5DN269
+- B07F97MPYT
+- B07G82D89G
+- B07RVMZNYR
+- B07YPR2DGH
+- B07Z6TV9Y7
+- B0846GFNCQ
+- B08PZBPXLZ
+- B09DV14ZZL
+- B09WDBHXB3
+- B0B7MKRR58
 status: published
 tags:
 - streaming price hike
@@ -192,3 +192,12 @@ The Nvidia Shield TV Pro transforms local media into a Netflix-like experience w
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

@@ -7,23 +7,23 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Hikes
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CAZAU62"
-- "B00JA3YPN4"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07B4BHRN2"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B07VVK39F7"
-- "B083BFPGD8"
-- "B085VZPR2Y"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CAZAU62
+- B00JA3YPN4
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07B4BHRN2
+- B07F97MPYT
+- B07RVMZNYR
+- B07VVK39F7
+- B083BFPGD8
+- B085VZPR2Y
+- B093TCYF9T
+- B0BVYBVHK5
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - pet food price increase
@@ -208,3 +208,12 @@ Another cost-saving strategy is to take advantage of retailer loyalty programs a
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+

@@ -18,7 +18,7 @@ affiliateUrl: https://www.amazon.com/dp/B01N5IB20Q?tag=carcare-20&linkCode=ll1&l
 isPrime: true
 status: published
 firstSeen: '2026-04-24T00:00:00+00:00'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 tags:
 - batteries
 - household

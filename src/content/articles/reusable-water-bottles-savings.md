@@ -7,22 +7,22 @@ pillarSlug: refill-and-reusable-guides
 cardTitle: Ditch Disposables
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B0C7ZTV376"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B00063RWT8
+- B001QY8QXM
+- B00CAZAU62
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07RVMZNYR
+- B08PZBPXLZ
+- B098JD8HD3
+- B09DY7CCW5
+- B09VXQ221K
+- B0C7ZTV376
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - reusable water bottles
@@ -196,3 +196,12 @@ For apartment dwellers, the Brita Premium Filtering Water Bottle combines portab
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's](/products/b0009iqzfm-b0009iqzfm/)** — see current price and specs.
+- **[SMINDER 2-Pack 1200 GSM Car Drying Towels – Microfiber Towels for Cars (36" x 24](/products/b0dpztlvhl-b0dpztlvhl/)** — see current price and specs.
+- **[Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shine and Lon](/products/b000amxqdg-b000amxqdg/)** — see current price and specs.
+- **[CAR GUYS Tire Shine Spray - The Perfect Deep Black Shine - Long Lasting Car Tire](/products/b06y5l9w65-b06y5l9w65/)** — see current price and specs.
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+

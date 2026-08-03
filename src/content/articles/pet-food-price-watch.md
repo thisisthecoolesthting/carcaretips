@@ -7,14 +7,14 @@ pillarSlug: price-hike-alerts
 cardTitle: Pet Food Price Watch
 cardPick: Bulk-buy angles and pantry staples when pet food prices creep up.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B0B2RM68G2"
-- "B0DPHQRLJC"
-- "B0DVT2JTRN"
-- "B0FVY8TTVN"
-- "B0G1R37VJC"
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B0B2RM68G2
+- B0DPHQRLJC
+- B0DVT2JTRN
+- B0FVY8TTVN
+- B0G1R37VJC
 status: published
 tags:
 - pet-supplies
@@ -113,3 +113,11 @@ We'll keep monitoring these products and alert you when we spot significant pric
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+- **[Microfiber Towels for Cars - 15.7" x 15.7" inches, Highly Absorbent Professional](/products/b0d8w4tgkh-b0d8w4tgkh/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+

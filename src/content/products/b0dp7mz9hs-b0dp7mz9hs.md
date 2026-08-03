@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DP7MZ9HS?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0dp7mz9hs-b0dp7mz9hs
 cardTitle: TEAM UNIQUE Tire Shine Gloss – 18.6 fl oz (Pack of 12) | High-Gloss Ti
 cardPick: Solid pick for most readers

@@ -7,22 +7,22 @@ pillarSlug: subscription-savings
 cardTitle: Subscription Service Audit
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07G82D89G"
-- "B082Y7X9H5"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07G82D89G
+- B082Y7X9H5
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B09W9MF63Y
+- B0BX2N258S
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - subscription creep
@@ -192,3 +192,12 @@ Pro Tip: Set calendar reminders to review subscription prices every 6 months. Ou
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Folgers Classic Roast Ground Coffee, 48 Oz](/products/b00hhqx0bq-folgers-classic-roast-coffee-48oz/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool for Car Buy](/products/b0fsc4y2mh-b0fsc4y2mh/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+

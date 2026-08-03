@@ -7,23 +7,23 @@ pillarSlug: refill-and-reuse
 cardTitle: Shampoo Bars vs. Liquid
 cardPick: Solid shampoo and conditioner bars that cut bottle waste without sacrificing results.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B074ND5RDT"
-- "B07D5DN269"
-- "B07G82D89G"
-- "B07Z6TV9Y7"
-- "B093TCYF9T"
-- "B09W9MF63Y"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0F54TYKF9"
-- "B0G3BYYZN2"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B074ND5RDT
+- B07D5DN269
+- B07G82D89G
+- B07Z6TV9Y7
+- B093TCYF9T
+- B09W9MF63Y
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0F54TYKF9
+- B0G3BYYZN2
+- B0GF25F12C
 status: published
 tags:
 - shampoo bars
@@ -217,3 +217,11 @@ New concentrate systems like Bare Home Shampoo Drops promise:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Meguiar's Hot Shine High Gloss Tire Coating, 6 Pack (6 x 15 oz = 90 oz Total) Ae](/products/b004q08hsw-b004q08hsw/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Po](/products/b0b2rm68g2-biodance-bio-collagen-real-deep-mask-hydrating-overnight-hyd/)** — see current price and specs.
+

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0GL9RL3XS?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0gl9rl3xs-b0gl9rl3xs
 cardTitle: BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS
 cardPick: Solid pick for most readers

@@ -7,22 +7,22 @@ pillarSlug: subscription-savings
 cardTitle: Streaming Wars
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07G82D89G"
-- "B07RVMZNYR"
-- "B08PZBPXLZ"
-- "B098JD8HD3"
-- "B09VXQ221K"
-- "B09W9MF63Y"
-- "B0BX2N258S"
-- "B0D41ZMDPD"
-- "B0DHV7ZWH2"
-- "B0DHV8SCLS"
-- "B0G63G9LRJ"
+- B00CAZAU62
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07F97MPYT
+- B07G82D89G
+- B07RVMZNYR
+- B08PZBPXLZ
+- B098JD8HD3
+- B09VXQ221K
+- B09W9MF63Y
+- B0BX2N258S
+- B0D41ZMDPD
+- B0DHV7ZWH2
+- B0DHV8SCLS
+- B0G63G9LRJ
 status: published
 tags:
 - streaming price hikes
@@ -184,3 +184,12 @@ Pro Tip: Create a shared calendar with friends to coordinate service rotations�
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[KKV Full-Sized SUV Drying Towel, 48”x24” Dual Sided Microfiber Car Cleaning Towe](/products/b0drghv7hm-b0drghv7hm/)** — see current price and specs.
+- **[Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's](/products/b0009iqzfm-b0009iqzfm/)** — see current price and specs.
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Extra Deep Queen Sheet Set - 6 Piece Breathable and Cooling Sheets - Hotel Luxur](/products/b07f97mpyt-extra-deep-queen-sheet-set-6-piece-breathable-and-cooling-sh/)** — see current price and specs.
+

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0FFCTPK2M?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0ffctpk2m-b0ffctpk2m
 cardTitle: Meguiar's Hot Shine Tire Foam, 19 Oz, 3 Can/Pack, 4 Pack/Case
 cardPick: Solid pick for most readers

@@ -7,22 +7,22 @@ pillarSlug: refill-and-reuse
 cardTitle: The Best Reusable Water Bottles for Long-Term Savings
 cardPick: Water and grocery price traps—pitcher, coffee, and bulk staples compared.
 relatedProducts:
-- "B004QM8SLG"
-- "B00CBBJ5KY"
-- "B00NQ1CLTI"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07C11YW88"
-- "B07Z6TV9Y7"
-- "B0846GFNCQ"
-- "B0848Q34F8"
-- "B093TCYF9T"
-- "B099NZC4PB"
-- "B09W9MF63Y"
-- "B0C7ZTV376"
-- "B0CB75LML9"
-- "B0CGW48C3G"
-- "B0GF25F12C"
+- B004QM8SLG
+- B00CBBJ5KY
+- B00NQ1CLTI
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07C11YW88
+- B07Z6TV9Y7
+- B0846GFNCQ
+- B0848Q34F8
+- B093TCYF9T
+- B099NZC4PB
+- B09W9MF63Y
+- B0C7ZTV376
+- B0CB75LML9
+- B0CGW48C3G
+- B0GF25F12C
 status: published
 tags:
 - water bottle savings
@@ -231,3 +231,12 @@ Even accounting for tap water costs:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's](/products/b0009iqzfm-b0009iqzfm/)** — see current price and specs.
+- **[SMINDER 2-Pack 1200 GSM Car Drying Towels – Microfiber Towels for Cars (36" x 24](/products/b0dpztlvhl-b0dpztlvhl/)** — see current price and specs.
+- **[Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shine and Lon](/products/b000amxqdg-b000amxqdg/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish that Create](/products/b06w5fxcms-b06w5fxcms/)** — see current price and specs.
+

@@ -7,22 +7,22 @@ pillarSlug: price-hike-alerts
 cardTitle: Printer Ink Price Gouging
 cardPick: Household staples that dodge the printer-ink price trap—real $/use math inside.
 relatedProducts:
-- "B00063RWT8"
-- "B004QM8SLG"
-- "B00WSAXBQ0"
-- "B07C11YW88"
-- "B07RVMZNYR"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B08GX3K9YS"
-- "B093TCYF9T"
-- "B0BVYBVHK5"
-- "B0CB75LML9"
-- "B0CGW2TFSV"
-- "B0CGW48C3G"
-- "B0CYJV9X52"
-- "B0F54TYKF9"
-- "B0GF25F12C"
+- B00063RWT8
+- B004QM8SLG
+- B00WSAXBQ0
+- B07C11YW88
+- B07RVMZNYR
+- B082Y7X9H5
+- B083BFPGD8
+- B08GX3K9YS
+- B093TCYF9T
+- B0BVYBVHK5
+- B0CB75LML9
+- B0CGW2TFSV
+- B0CGW48C3G
+- B0CYJV9X52
+- B0F54TYKF9
+- B0GF25F12C
 status: published
 tags:
 - printer ink
@@ -329,3 +329,12 @@ Epson EcoTank 2850
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[ecodot 552 Pigment Ink Refill Ink Bottle Replacement for Epson 552 Ink Used for ](/products/b09w9mf63y-ecodot-552-pigment-ink-refill-ink-bottle-replacement-for-eps/)** — see current price and specs.
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Toner Kingdom Compatible Toner-Cartridge Replacement for Canon 054H 054 High Yie](/products/b083bfpgd8-toner-kingdom-compatible-toner-cartridge-replacement-for-can/)** — see current price and specs.
+- **[Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated Tire Shine ](/products/b0cf2lk6gx-b0cf2lk6gx/)** — see current price and specs.
+

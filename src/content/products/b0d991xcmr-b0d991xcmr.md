@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0D991XCMR?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T14:59:32+00:00'
+lastSeen: '2026-08-03T15:01:06+00:00'
 slug: b0d991xcmr-b0d991xcmr
 cardTitle: Chemical Guys, Tire Kicker Extra Glossy Tire Shine Spray, Dry Touch, 1
 cardPick: Solid pick for most readers
