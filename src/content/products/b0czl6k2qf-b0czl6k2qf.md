@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0CZL6K2QF?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b0czl6k2qf-b0czl6k2qf
 cardTitle: Meguiar's G13815 Hot Shine High Gloss Tire Coating - 15 Oz Spray Can (
 cardPick: Solid pick for most readers

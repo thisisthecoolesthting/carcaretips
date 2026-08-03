@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B07TTG3ZJ8?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b07ttg3zj8-b07ttg3zj8
 cardTitle: AIDEA Microfiber Towels for Cars-2PK, Large Professional Car Drying To
 cardPick: Solid pick for most readers

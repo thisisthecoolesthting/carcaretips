@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0CY2XW4GB?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b0cy2xw4gb-b0cy2xw4gb
 cardTitle: Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Fre
 cardPick: Solid pick for most readers

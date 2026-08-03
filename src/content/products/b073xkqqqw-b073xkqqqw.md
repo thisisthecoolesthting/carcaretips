@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B073XKQQQW?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b073xkqqqw-b073xkqqqw
 cardTitle: Veepeak OBDCheck BLE Bluetooth OBD II Scanner for iOS & Android, Car W
 cardPick: Solid pick for most readers

@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B001QY8QXM?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-02'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b001qy8qxm-astra-platinum-double-edge-safety-razor-blades-100-blades-20
 cardTitle: Astra Platinum Double Edge Safety Razor Blades,100 Blades (20 x 5)
 cardPick: Solid pick for most readers

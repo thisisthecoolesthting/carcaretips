@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0DPZCZJLV?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b0dpzczjlv-b0dpzczjlv
 cardTitle: HOMEXCEL Car Drying Towel, 36"x 24" Microfiber Towels for Cars, Trucks
 cardPick: Solid pick for most readers

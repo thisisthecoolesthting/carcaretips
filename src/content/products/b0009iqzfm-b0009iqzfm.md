@@ -14,7 +14,7 @@ affiliateUrl: https://www.amazon.com/dp/B0009IQZFM?tag=carcare-20
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
-lastSeen: '2026-08-03T15:01:06+00:00'
+lastSeen: '2026-08-03T15:02:36+00:00'
 slug: b0009iqzfm-b0009iqzfm
 cardTitle: Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying To
 cardPick: Solid pick for most readers
