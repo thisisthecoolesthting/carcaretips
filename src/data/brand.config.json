@@ -32,13 +32,13 @@
     }
   },
   "homepage": {
-    "eyebrow": "Car care & detailing",
-    "h1": "Detail smarter — track car care gear without the markup creep",
-    "subhead": "We compare wash kits, wax, and detailing tools on true per-wash cost — and flag when automotive bundles inflate the basics you use every month.",
-    "ctaPrimaryLabel": "Browse car care guides",
-    "ctaPrimaryHref": "/articles",
-    "ctaSecondaryLabel": "Our standards",
-    "ctaSecondaryHref": "/methodology",
+    "eyebrow": "First-car care",
+    "h1": "First car service checklist for new drivers",
+    "subhead": "A practical service checklist and care guides for first-time owners — oil, filters, brakes, tires, fluids, and the detailing basics that keep a car reliable without overspending.",
+    "ctaPrimaryLabel": "See the full checklist",
+    "ctaPrimaryHref": "/articles/8-first-time-buyer-checklist-for-car-repair-and-maintenence",
+    "ctaSecondaryLabel": "Browse all guides",
+    "ctaSecondaryHref": "/articles",
     "trustLine": "Independent editorial · No brand sponsorships · We name the product, we name the budget swap",
     "heroImageUrl": "/hero/carcare-hero.jpg",
     "heroVideoUrl": "/hero/carcare-hero.mp4"

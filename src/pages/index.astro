@@ -116,9 +116,88 @@ const trustItems = [
   { label: 'Weekly price checks', icon: 'clock' as const },
   { label: 'No retailer sponsorships', icon: 'ban' as const },
 ];
+
+const pageTitle = 'First Car Service Checklist: Care Essentials for New Drivers';
+const pageDescription =
+  'Use this first car service checklist to care for a new-to-you vehicle — oil, filters, brakes, tires, fluids, and simple DIY vs. shop decisions, with free guides from CarCareTips.';
+
+/** Visible FAQ copy — must match FAQPage JSON-LD mainEntity text exactly. */
+const homepageFaqs: { question: string; answer: string }[] = [
+  {
+    question: 'What belongs on a first car service checklist?',
+    answer:
+      'Start with your owner’s manual service intervals, then cover oil and filter changes, tire pressure and rotation, brake inspection, and the fluids your car actually uses (coolant, brake, transmission, and power steering when applicable). A starter toolkit — socket set, torque wrench, jack with stands, oil-filter wrench, funnel, and tire gauge — covers most routine work.',
+  },
+  {
+    question: 'How do I take care of my first car day to day?',
+    answer:
+      'Prioritize proactive basics: change oil and filters on schedule, check tire pressure monthly, inspect brakes and tread, and top off or replace fluids before seasonal changes. Keep a simple maintenance log with dates, mileage, parts, and costs so you catch recurring issues early and protect resale value.',
+  },
+  {
+    question: 'How often should I change the oil on a first car?',
+    answer:
+      'Follow the manufacturer’s recommendation in the owner’s manual. As a general rule of thumb used across our guides, conventional oil is often in the 5,000–7,500 mile range and full synthetic often 7,500–10,000 miles, depending on the vehicle and driving conditions. Always replace the oil filter when you change the oil, and use the viscosity grade the manual specifies.',
+  },
+  {
+    question: 'Which tools do first-time owners need for basic maintenance?',
+    answer:
+      'A practical beginner set includes a metric and SAE socket set, flathead and Phillips screwdrivers, a torque wrench, pliers, a jack with jack stands, an oil-filter wrench, a funnel, and a tire pressure gauge. Quality tools from reputable brands usually last longer than the cheapest multipacks that strip or break.',
+  },
+  {
+    question: 'Can I service my first car myself, or should I use a mechanic?',
+    answer:
+      'Many first-time owners can safely handle oil changes, air-filter swaps, and tire rotations with the right tools and a level workspace. Leave brake jobs, transmission work, complicated diagnostics, and electrical repairs to a trusted shop if you are unsure — safety systems and warranties are not the place to guess.',
+  },
+  {
+    question: 'Why keep a maintenance log for a first car?',
+    answer:
+      'A dated log of services, mileage, parts, and costs helps you spot patterns, support warranty claims, and show buyers that the car was maintained. Include irregular symptoms and any mechanic recommendations so emerging problems do not get forgotten between visits.',
+  },
+  {
+    question: 'How often should a first car get a full inspection?',
+    answer:
+      'A comprehensive inspection at least once a year or every 12,000 miles — whichever comes first — is a sensible baseline in our FAQ guidance. Annual checks are especially useful on older vehicles so wear items are caught before they become roadside failures.',
+  },
+];
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: homepageFaqs.map((item) => ({
+    '@type': 'Question',
+    name: item.question,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: item.answer,
+    },
+  })),
+};
+
+const relatedGuides = [
+  {
+    href: '/articles/8-first-time-buyer-checklist-for-car-repair-and-maintenence',
+    title: 'First-time buyer checklist for car repair and maintenance',
+    blurb: 'Full service checklist: tools, fluids, parts, and when to DIY.',
+  },
+  {
+    href: '/articles/15-car-repair-and-maintenence-faq-honest-answers',
+    title: 'Car repair and maintenance FAQ — honest answers',
+    blurb: 'Oil intervals, brakes, tires, DIY limits, and inspection cadence.',
+  },
+  {
+    href: '/articles/1-best-car-repair-and-maintenence-2026-buyer-s-guide',
+    title: 'Best car repair and maintenance buyer’s guide (2026)',
+    blurb: 'Diagnostic tools, oils, filters, and kit categories worth buying.',
+  },
+  {
+    href: '/articles/6-car-repair-and-maintenence',
+    title: 'Car repair and maintenance essentials',
+    blurb: 'Oil, brakes, tires, fluids, and battery care priorities.',
+  },
+];
 ---
 
-<CompliantLayout title={b.fullName} description={dmeta} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
+<CompliantLayout title={pageTitle} description={pageDescription} articleJsonLd={faqSchema} sectionAds="home" sectionAdsCompact sectionAdsFooter={false}>
 
   {/* ============ 1. HERO — compact watchdog band ============ */}
   <HeroCompact
@@ -129,29 +208,91 @@ const trustItems = [
     ctaPrimaryLabel={h.ctaPrimaryLabel}
     ctaSecondaryHref={h.ctaSecondaryHref}
     ctaSecondaryLabel={h.ctaSecondaryLabel}
-    bullets={['No retailer sponsorships', 'Weekly price checks', `${allArticles.length}+ articles tracked`]}
+    bullets={['Owner’s-manual first', 'DIY vs shop guidance', `${allArticles.length}+ articles tracked`]}
     stats={dataStats}
     products={heroProducts}
     articleCount={allArticles.length}
     gradient="bg-[radial-gradient(50%_80%_at_100%_0%,rgba(30,64,175,.18),transparent_55%),radial-gradient(40%_50%_at_0%_100%,rgba(15,23,42,.2),transparent_60%)]"
     snapshot={{
-      panelLabel: 'Price watchlist',
-      panelAriaLabel: 'Household staple price snapshot',
+      panelLabel: 'Service watchlist',
+      panelAriaLabel: 'First-car service checklist snapshot',
       trackedSuffix: 'articles tracked',
-      footerNote: 'Shrinkflation alerts · refill swaps · no pay-to-play',
-      footerHref: '/pillars/household-refill-buying-guide',
-      footerLinkText: 'Refill buying guide →',
+      footerNote: 'Service intervals · care checklists · no pay-to-play',
+      footerHref: '/articles/8-first-time-buyer-checklist-for-car-repair-and-maintenence',
+      footerLinkText: 'Full first-car checklist →',
       productPlaceholder: 'Item',
     }}
     heroImageUrl={h.heroImageUrl}
     heroVideoUrl={(h as { heroVideoUrl?: string }).heroVideoUrl}
-    heroBadge="Consumer price watchdog"
-    heroCaption="We track household staples you buy on repeat — and flag hikes before they become habit."
+    heroBadge="First-car service desk"
+    heroCaption="A first car service checklist built from our maintenance guides — what to check, what to buy, and when to call a shop."
     heroAlt="Slow tracking shot across a glossy car hood — car care and detailing"
     rightPanel="image"
   />
 
   <TrustStrip trustLine={trustLineDisplay} items={trustItems} />
+
+  {/* ============ RELATED GUIDES ============ */}
+  <section class="max-w-6xl mx-auto px-5 py-8 md:py-10" aria-labelledby="related-guides-heading">
+    <div class="flex flex-col md:flex-row md:items-end md:justify-between gap-5 mb-8">
+      <div>
+        <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">Related guides</p>
+        <h2 id="related-guides-heading" class="font-display text-3xl md:text-4xl text-ink-900 leading-tight !mt-0 max-w-[22ch]">
+          Start with these first-car care guides.
+        </h2>
+      </div>
+      <a href="/articles" class="font-mono text-[11.5px] tracking-[0.08em] uppercase text-ink-900 border-b border-terracotta-500 pb-0.5 no-underline hover:text-terracotta-600 whitespace-nowrap">
+        All guides →
+      </a>
+    </div>
+    <ul class="grid grid-cols-1 sm:grid-cols-2 gap-4 list-none p-0 m-0">
+      {relatedGuides.map((guide) => (
+        <li>
+          <a
+            href={guide.href}
+            class="group no-underline flex flex-col h-full rounded-xl border border-cream-200 bg-white p-6 transition-all hover:-translate-y-1 hover:shadow-soft-lg hover:border-terracotta-400"
+          >
+            <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug group-hover:text-terracotta-600 transition-colors">
+              {guide.title}
+            </h3>
+            <p class="text-sm text-ink-700 mt-2.5 leading-relaxed flex-1">
+              {guide.blurb}
+            </p>
+            <span class="font-mono text-[11px] tracking-[0.1em] uppercase text-ink-900 mt-4 group-hover:text-terracotta-600">
+              Read guide <span class="text-terracotta-500">→</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  {/* ============ FAQ (visible + FAQPage JSON-LD via articleJsonLd) ============ */}
+  <section class="bg-cream-50 border-y border-cream-200" aria-labelledby="homepage-faq-heading">
+    <div class="max-w-3xl mx-auto px-5 py-12 md:py-14">
+      <p class="font-mono text-[11px] tracking-[0.18em] uppercase text-terracotta-600 font-medium mb-2">FAQ</p>
+      <h2 id="homepage-faq-heading" class="font-display text-3xl md:text-4xl text-ink-900 !mt-0 leading-tight max-w-[24ch]">
+        First car service checklist — common questions
+      </h2>
+      <p class="text-sm text-ink-700 mt-4 max-w-[56ch]">
+        Answers drawn from our published maintenance guides for first-time owners. No invented specs or prices.
+      </p>
+      <dl class="mt-8 space-y-6">
+        {homepageFaqs.map((item) => (
+          <div class="border-b border-cream-200 pb-6 last:border-0 last:pb-0">
+            <dt>
+              <h3 class="font-display text-xl text-ink-900 !mt-0 leading-snug">
+                {item.question}
+              </h3>
+            </dt>
+            <dd class="text-[15px] text-ink-700 leading-relaxed mt-2.5 m-0">
+              {item.answer}
+            </dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+  </section>
 
   {/* ============ 3. PILLAR GRID ============ */}
   {pillarGridEntries.length > 0 && (
