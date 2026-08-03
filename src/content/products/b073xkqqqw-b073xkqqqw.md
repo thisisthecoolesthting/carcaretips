@@ -1,22 +1,22 @@
 ---
 asin: B073XKQQQW
-title: B073XKQQQW
-seoTitle: B073XKQQQW — review
-metaDescription: Hands-on notes on B073XKQQQW.
+title: Veepeak OBDCheck BLE Bluetooth OBD II Scanner for iOS & Android, Car Wireless Check Engine Light Code Reader Diagnostic Tool
+seoTitle: Veepeak OBDCheck BLE Bluetooth OBD II Scanner for iOS & Android, Car W — Review
+metaDescription: Hands-on notes on Veepeak OBDCheck BLE Bluetooth OBD II Scanner for iOS & Android, Car Wireless Check Engine Light Cod — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B073XKQQQW?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B073XKQQQW?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b073xkqqqw-b073xkqqqw
-cardTitle: B073XKQQQW
+cardTitle: Veepeak OBDCheck BLE Bluetooth OBD II Scanner for iOS & Android, Car W
 cardPick: Solid pick for most readers
 tags: []
 ---

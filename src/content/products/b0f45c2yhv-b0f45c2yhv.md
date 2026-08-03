@@ -1,22 +1,22 @@
 ---
 asin: B0F45C2YHV
-title: B0F45C2YHV
-seoTitle: B0F45C2YHV — review
-metaDescription: Hands-on notes on B0F45C2YHV.
+title: CERAKOTE® Rapid Ceramic Tire Coat - Long-Lasting Deep Black Tire Shine
+seoTitle: CERAKOTE® Rapid Ceramic Tire Coat - Long-Lasting Deep Black Tire Shine — Review
+metaDescription: Hands-on notes on CERAKOTE® Rapid Ceramic Tire Coat - Long-Lasting Deep Black Tire Shine — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0F45C2YHV?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0F45C2YHV?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0f45c2yhv-b0f45c2yhv
-cardTitle: B0F45C2YHV
+cardTitle: CERAKOTE® Rapid Ceramic Tire Coat - Long-Lasting Deep Black Tire Shine
 cardPick: Solid pick for most readers
 tags: []
 ---

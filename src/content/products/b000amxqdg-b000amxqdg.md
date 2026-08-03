@@ -1,22 +1,22 @@
 ---
 asin: B000AMXQDG
-title: B000AMXQDG
-seoTitle: B000AMXQDG — review
-metaDescription: Hands-on notes on B000AMXQDG.
+title: Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shine and Long-Lasting Protection with an Advanced Self-Spreading Formula, 15 Oz Aerosol Spray Can
+seoTitle: Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shi — Review
+metaDescription: Hands-on notes on Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shine and Long-Lasting Protection — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B000AMXQDG?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B000AMXQDG?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b000amxqdg-b000amxqdg
-cardTitle: B000AMXQDG
+cardTitle: Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shi
 cardPick: Solid pick for most readers
 tags: []
 ---

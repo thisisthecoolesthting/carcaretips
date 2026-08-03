@@ -1,22 +1,22 @@
 ---
 asin: B0FF76CQB6
-title: B0FF76CQB6
-seoTitle: B0FF76CQB6 — review
-metaDescription: Hands-on notes on B0FF76CQB6.
+title: Meguiar's Hot Shine High Gloss Tire Coating - Get Long-Lasting Tire Protection and Glossy Tires with a Wet Look Shine, 3 Pack of 15 Oz Aerosol Cans
+seoTitle: Meguiar's Hot Shine High Gloss Tire Coating - Get Long-Lasting Tire Pr — Review
+metaDescription: Hands-on notes on Meguiar's Hot Shine High Gloss Tire Coating - Get Long-Lasting Tire Protection and Glossy Tires with — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 29.99
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0FF76CQB6?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0FF76CQB6?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0ff76cqb6-b0ff76cqb6
-cardTitle: B0FF76CQB6
+cardTitle: Meguiar's Hot Shine High Gloss Tire Coating - Get Long-Lasting Tire Pr
 cardPick: Solid pick for most readers
 tags: []
 ---

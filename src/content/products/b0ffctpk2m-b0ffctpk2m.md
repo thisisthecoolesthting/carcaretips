@@ -1,22 +1,22 @@
 ---
 asin: B0FFCTPK2M
-title: B0FFCTPK2M
-seoTitle: B0FFCTPK2M — review
-metaDescription: Hands-on notes on B0FFCTPK2M.
+title: Meguiar's Hot Shine Tire Foam, 19 Oz, 3 Can/Pack, 4 Pack/Case
+seoTitle: Meguiar's Hot Shine Tire Foam, 19 Oz, 3 Can/Pack, 4 Pack/Case — Review
+metaDescription: Hands-on notes on Meguiar's Hot Shine Tire Foam, 19 Oz, 3 Can/Pack, 4 Pack/Case — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0FFCTPK2M?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0FFCTPK2M?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0ffctpk2m-b0ffctpk2m
-cardTitle: B0FFCTPK2M
+cardTitle: Meguiar's Hot Shine Tire Foam, 19 Oz, 3 Can/Pack, 4 Pack/Case
 cardPick: Solid pick for most readers
 tags: []
 ---

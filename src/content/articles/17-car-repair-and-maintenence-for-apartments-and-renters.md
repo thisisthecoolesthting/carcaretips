@@ -139,3 +139,12 @@ Use compact, portable toolboxes or storage bins under beds or in closets. Some r
 ### Is it worth investing in a portable car jack for apartment living?
 
 If you’re comfortable conducting minor maintenance or tire repairs, a portable jack is a good investment. Just ensure you have adequate safety equipment like jack stands and work on stable, flat ground.
+
+## Our picks worth a closer look
+
+- **[UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool for Car Buy](/products/b0fsc4y2mh-b0fsc4y2mh/)** — see current price and specs.
+- **[Bike Repair and Maintenance For Dummies](/products/0470415800-0470415800/)** — see current price and specs.
+- **[Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's](/products/b0009iqzfm-b0009iqzfm/)** — see current price and specs.
+- **[Meguiar's Hot Shine High Gloss Tire Coating, 6 Pack (6 x 15 oz = 90 oz Total) Ae](/products/b004q08hsw-b004q08hsw/)** — see current price and specs.
+- **[ANCEL AD310 Classic Enhanced Universal OBD II Scanner Car Engine Fault Code Read](/products/b01g5ea74i-b01g5ea74i/)** — see current price and specs.
+

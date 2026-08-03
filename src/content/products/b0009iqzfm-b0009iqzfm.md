@@ -1,22 +1,22 @@
 ---
 asin: B0009IQZFM
-title: B0009IQZFM
-seoTitle: B0009IQZFM — review
-metaDescription: Hands-on notes on B0009IQZFM.
+title: Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's Super Plush, Water Absorbent & Scratch-Free -1 Pack
+seoTitle: Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying To — Review
+metaDescription: Hands-on notes on Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying Towel That's Super Plush, Water  — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 8.48
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0009IQZFM?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0009IQZFM?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0009iqzfm-b0009iqzfm
-cardTitle: B0009IQZFM
+cardTitle: Meguiar's Water Magnet Microfiber Drying Towel - Premium Car Drying To
 cardPick: Solid pick for most readers
 tags: []
 ---

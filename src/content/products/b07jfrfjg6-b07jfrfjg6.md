@@ -1,22 +1,22 @@
 ---
 asin: B07JFRFJG6
-title: B07JFRFJG6
-seoTitle: B07JFRFJG6 — review
-metaDescription: Hands-on notes on B07JFRFJG6.
+title: OBDLink MX+ OBD2 Bluetooth Scanner for iPhone, Android, and Windows
+seoTitle: OBDLink MX+ OBD2 Bluetooth Scanner for iPhone, Android, and Windows — Review
+metaDescription: Hands-on notes on OBDLink MX+ OBD2 Bluetooth Scanner for iPhone, Android, and Windows — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07JFRFJG6?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B07JFRFJG6?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b07jfrfjg6-b07jfrfjg6
-cardTitle: B07JFRFJG6
+cardTitle: OBDLink MX+ OBD2 Bluetooth Scanner for iPhone, Android, and Windows
 cardPick: Solid pick for most readers
 tags: []
 ---

@@ -1,22 +1,22 @@
 ---
 asin: B0D991XCMR
-title: B0D991XCMR
-seoTitle: B0D991XCMR — review
-metaDescription: Hands-on notes on B0D991XCMR.
+title: Chemical Guys, Tire Kicker Extra Glossy Tire Shine Spray, Dry Touch, 16 oz
+seoTitle: Chemical Guys, Tire Kicker Extra Glossy Tire Shine Spray, Dry Touch, 1 — Review
+metaDescription: Hands-on notes on Chemical Guys, Tire Kicker Extra Glossy Tire Shine Spray, Dry Touch, 16 oz — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 13.99
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0D991XCMR?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0D991XCMR?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0d991xcmr-b0d991xcmr
-cardTitle: B0D991XCMR
+cardTitle: Chemical Guys, Tire Kicker Extra Glossy Tire Shine Spray, Dry Touch, 1
 cardPick: Solid pick for most readers
 tags: []
 ---

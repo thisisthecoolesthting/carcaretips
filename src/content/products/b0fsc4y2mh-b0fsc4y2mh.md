@@ -1,22 +1,22 @@
 ---
 asin: B0FSC4Y2MH
-title: B0FSC4Y2MH
-seoTitle: B0FSC4Y2MH — review
-metaDescription: Hands-on notes on B0FSC4Y2MH.
+title: UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool for Car Buying Repair, No Subscription Fee, AutoVIN, 45000+ Fault Codes, Check & Clear Engine Codes, Real-Time Data, Vehicles 1996+
+seoTitle: UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool f — Review
+metaDescription: Hands-on notes on UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool for Car Buying Repair, No Subsc — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0FSC4Y2MH?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0FSC4Y2MH?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0fsc4y2mh-b0fsc4y2mh
-cardTitle: B0FSC4Y2MH
+cardTitle: UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool f
 cardPick: Solid pick for most readers
 tags: []
 ---

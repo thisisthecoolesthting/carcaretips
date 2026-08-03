@@ -1,22 +1,22 @@
 ---
 asin: B0CF2LK6GX
-title: B0CF2LK6GX
-seoTitle: B0CF2LK6GX — review
-metaDescription: Hands-on notes on B0CF2LK6GX.
+title: Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated Tire Shine Applicator Cleaner to Keep Them Looking Wet, Black, and Glossy with One Quick Spray – Long-Lasting Protection for Tires
+seoTitle: Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated T — Review
+metaDescription: Hands-on notes on Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated Tire Shine Applicator Cleaner t — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0CF2LK6GX?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0CF2LK6GX?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0cf2lk6gx-b0cf2lk6gx
-cardTitle: B0CF2LK6GX
+cardTitle: Black Magic 120217 Tire Wet, 23oz (Pack of 2) - Specially Formulated T
 cardPick: Solid pick for most readers
 tags: []
 ---

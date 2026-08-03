@@ -1,22 +1,22 @@
 ---
 asin: B00BQYCIVI
-title: B00BQYCIVI
-seoTitle: B00BQYCIVI — review
-metaDescription: Hands-on notes on B00BQYCIVI.
+title: Chemical Guys, Waffle Weave Gray Matter Microfiber Drying Towel, 25 x 36 in
+seoTitle: Chemical Guys, Waffle Weave Gray Matter Microfiber Drying Towel, 25 x  — Review
+metaDescription: Hands-on notes on Chemical Guys, Waffle Weave Gray Matter Microfiber Drying Towel, 25 x 36 in — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 11.99
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B00BQYCIVI?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B00BQYCIVI?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b00bqycivi-b00bqycivi
-cardTitle: B00BQYCIVI
+cardTitle: 'Chemical Guys, Waffle Weave Gray Matter Microfiber Drying Towel, 25 x '
 cardPick: Solid pick for most readers
 tags: []
 ---

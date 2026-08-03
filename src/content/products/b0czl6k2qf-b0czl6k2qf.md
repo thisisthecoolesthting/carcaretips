@@ -1,22 +1,22 @@
 ---
 asin: B0CZL6K2QF
-title: B0CZL6K2QF
-seoTitle: B0CZL6K2QF — review
-metaDescription: Hands-on notes on B0CZL6K2QF.
+title: Meguiar's G13815 Hot Shine High Gloss Tire Coating - 15 Oz Spray Can (Pack of 5)
+seoTitle: Meguiar's G13815 Hot Shine High Gloss Tire Coating - 15 Oz Spray Can ( — Review
+metaDescription: Hands-on notes on Meguiar's G13815 Hot Shine High Gloss Tire Coating - 15 Oz Spray Can (Pack of 5) — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0CZL6K2QF?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0CZL6K2QF?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0czl6k2qf-b0czl6k2qf
-cardTitle: B0CZL6K2QF
+cardTitle: Meguiar's G13815 Hot Shine High Gloss Tire Coating - 15 Oz Spray Can (
 cardPick: Solid pick for most readers
 tags: []
 ---

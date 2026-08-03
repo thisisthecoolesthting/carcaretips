@@ -1,22 +1,22 @@
 ---
 asin: B0B2J8QQXR
-title: B0B2J8QQXR
-seoTitle: B0B2J8QQXR — review
-metaDescription: Hands-on notes on B0B2J8QQXR.
+title: Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, 16 oz
+seoTitle: Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim,  — Review
+metaDescription: Hands-on notes on Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, 16 oz — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 17.65
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0B2J8QQXR?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0B2J8QQXR?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0b2j8qqxr-b0b2j8qqxr
-cardTitle: B0B2J8QQXR
+cardTitle: 'Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, '
 cardPick: Solid pick for most readers
 tags: []
 ---

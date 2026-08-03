@@ -1,22 +1,22 @@
 ---
 asin: B06W5FXCMS
-title: B06W5FXCMS
-seoTitle: B06W5FXCMS — review
-metaDescription: Hands-on notes on B06W5FXCMS.
+title: Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish that Creates a Lasting Wet-Look for a Classic Black Shine, Easy to Use, No Hassle, No Mess, Ultimate Protection, 15 Oz Aerosol Can
+seoTitle: Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish t — Review
+metaDescription: Hands-on notes on Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish that Creates a Lasting Wet-Look — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 9.99
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B06W5FXCMS?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B06W5FXCMS?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b06w5fxcms-b06w5fxcms
-cardTitle: B06W5FXCMS
+cardTitle: Meguiar's G190315 Ultimate Insane Shine Tire Coating, gives a Finish t
 cardPick: Solid pick for most readers
 tags: []
 ---

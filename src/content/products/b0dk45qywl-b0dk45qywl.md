@@ -1,22 +1,22 @@
 ---
 asin: B0DK45QYWL
-title: B0DK45QYWL
-seoTitle: B0DK45QYWL — review
-metaDescription: Hands-on notes on B0DK45QYWL.
+title: Armor All Podium Series Hybrid Ceramic High Gloss Tire Shine Spray, 16 fl oz, Long-Lasting Car Tire Shine Developed in Collaboration With Oracle Red Bull Racing
+seoTitle: Armor All Podium Series Hybrid Ceramic High Gloss Tire Shine Spray, 16 — Review
+metaDescription: Hands-on notes on Armor All Podium Series Hybrid Ceramic High Gloss Tire Shine Spray, 16 fl oz, Long-Lasting Car Tire  — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 8.0
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DK45QYWL?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0DK45QYWL?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0dk45qywl-b0dk45qywl
-cardTitle: B0DK45QYWL
+cardTitle: Armor All Podium Series Hybrid Ceramic High Gloss Tire Shine Spray, 16
 cardPick: Solid pick for most readers
 tags: []
 ---

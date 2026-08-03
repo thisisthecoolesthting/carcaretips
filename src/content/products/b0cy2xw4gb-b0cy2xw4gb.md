@@ -1,22 +1,22 @@
 ---
 asin: B0CY2XW4GB
-title: B0CY2XW4GB
-seoTitle: B0CY2XW4GB — review
-metaDescription: Hands-on notes on B0CY2XW4GB.
+title: Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Free, Scratch Free, Ultra-Soft, Car Detailing, Buffing and Polishing, 16" x 16", Yellow, 12-Pack
+seoTitle: Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Fre — Review
+metaDescription: Hands-on notes on Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Free, Scratch Free, Ultra-Soft, C — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 12.59
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0CY2XW4GB?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0CY2XW4GB?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0cy2xw4gb-b0cy2xw4gb
-cardTitle: B0CY2XW4GB
+cardTitle: Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Fre
 cardPick: Solid pick for most readers
 tags: []
 ---

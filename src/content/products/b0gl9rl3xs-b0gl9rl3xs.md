@@ -1,22 +1,22 @@
 ---
 asin: B0GL9RL3XS
-title: B0GL9RL3XS
-seoTitle: B0GL9RL3XS — review
-metaDescription: Hands-on notes on B0GL9RL3XS.
+title: BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS
+seoTitle: BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS — Review
+metaDescription: Hands-on notes on BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GL9RL3XS?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GL9RL3XS?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0gl9rl3xs-b0gl9rl3xs
-cardTitle: B0GL9RL3XS
+cardTitle: BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS
 cardPick: Solid pick for most readers
 tags: []
 ---

@@ -1,22 +1,22 @@
 ---
 asin: B0DT46M6NQ
-title: B0DT46M6NQ
-seoTitle: B0DT46M6NQ — review
-metaDescription: Hands-on notes on B0DT46M6NQ.
+title: 2-Pack 1300GSM Microfiber Car Drying Towel, Ultra-Large & Lint-Free
+seoTitle: 2-Pack 1300GSM Microfiber Car Drying Towel, Ultra-Large & Lint-Free — Review
+metaDescription: Hands-on notes on 2-Pack 1300GSM Microfiber Car Drying Towel, Ultra-Large & Lint-Free — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DT46M6NQ?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0DT46M6NQ?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0dt46m6nq-b0dt46m6nq
-cardTitle: B0DT46M6NQ
+cardTitle: 2-Pack 1300GSM Microfiber Car Drying Towel, Ultra-Large & Lint-Free
 cardPick: Solid pick for most readers
 tags: []
 ---

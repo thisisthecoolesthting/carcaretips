@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Household Products for Allergy-Friendly Cleaning
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T10:22:34Z'
-
 relatedProducts:
-- "B00063RWT8"
-- "B001QY8QXM"
-- "B004QM8SLG"
-- "B07C11YW88"
-- "B07VVK39F7"
-- "B082Y7X9H5"
-- "B083BFPGD8"
-- "B0BVYBVHK5"
+- B00063RWT8
+- B001QY8QXM
+- B004QM8SLG
+- B07C11YW88
+- B07VVK39F7
+- B082Y7X9H5
+- B083BFPGD8
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/best-refillable-household-products-for-allergy-friendly-cleaning.jpg
 subtopic: cleaning
@@ -184,3 +183,12 @@ When choosing refillable cleaners, consider these factors:
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Scott 1000 Sheets Per Roll Toilet Paper, 36 Rolls](/products/b00c2o7c7o-scott-1000-toilet-paper-36-rolls/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Cristal Products Untouchable Tire Shine Spray – Long-Lasting Wet Tire Finish for](/products/b09wjmkm22-b09wjmkm22/)** — see current price and specs.
+- **[Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material](/products/b0b72kr1gw-b0b72kr1gw/)** — see current price and specs.
+

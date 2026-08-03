@@ -1,22 +1,22 @@
 ---
 asin: B0DLCGBLGL
-title: B0DLCGBLGL
-seoTitle: B0DLCGBLGL — review
-metaDescription: Hands-on notes on B0DLCGBLGL.
+title: Meguiar's G250816 - Ultimate Insane Shine Tire Spray-16oz
+seoTitle: Meguiar's G250816 - Ultimate Insane Shine Tire Spray-16oz — Review
+metaDescription: Hands-on notes on Meguiar's G250816 - Ultimate Insane Shine Tire Spray-16oz — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 13.49
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DLCGBLGL?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0DLCGBLGL?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0dlcgblgl-b0dlcgblgl
-cardTitle: B0DLCGBLGL
+cardTitle: Meguiar's G250816 - Ultimate Insane Shine Tire Spray-16oz
 cardPick: Solid pick for most readers
 tags: []
 ---

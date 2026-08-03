@@ -1,22 +1,22 @@
 ---
 asin: B076XVQMVS
-title: B076XVQMVS
-seoTitle: B076XVQMVS — review
-metaDescription: Hands-on notes on B076XVQMVS.
+title: Veepeak OBDCheck BLE+ Bluetooth OBD II Scanner for iOS & Android, Car Check Engine Code Reader Wireless OBD Diagnostic Scan Tool
+seoTitle: Veepeak OBDCheck BLE+ Bluetooth OBD II Scanner for iOS & Android, Car  — Review
+metaDescription: Hands-on notes on Veepeak OBDCheck BLE+ Bluetooth OBD II Scanner for iOS & Android, Car Check Engine Code Reader Wirel — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B076XVQMVS?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B076XVQMVS?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b076xvqmvs-b076xvqmvs
-cardTitle: B076XVQMVS
+cardTitle: 'Veepeak OBDCheck BLE+ Bluetooth OBD II Scanner for iOS & Android, Car '
 cardPick: Solid pick for most readers
 tags: []
 ---

@@ -1,22 +1,22 @@
 ---
 asin: B0B72KR1GW
-title: B0B72KR1GW
-seoTitle: B0B72KR1GW — review
-metaDescription: Hands-on notes on B0B72KR1GW.
+title: Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material
+seoTitle: Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Mat — Review
+metaDescription: Hands-on notes on Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Material — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0B72KR1GW?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0B72KR1GW?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0b72kr1gw-b0b72kr1gw
-cardTitle: B0B72KR1GW
+cardTitle: Hat Cleaning Kit - 5-in-1 Quick-Drying Baseball Cap Cleaner of All Mat
 cardPick: Solid pick for most readers
 tags: []
 ---

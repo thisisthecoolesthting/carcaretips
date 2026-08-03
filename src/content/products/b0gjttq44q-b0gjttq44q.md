@@ -1,22 +1,22 @@
 ---
 asin: B0GJTTQ44Q
-title: B0GJTTQ44Q
-seoTitle: B0GJTTQ44Q — review
-metaDescription: Hands-on notes on B0GJTTQ44Q.
+title: Black Magic 120269 Tire Wet Foam - Specially Formulated Thick Tire Spray Foam Clings to Tires to Dissolve & Clean Dirt while Shining & Protecting, 18 Fl. Oz. (Pack of 2)
+seoTitle: Black Magic 120269 Tire Wet Foam - Specially Formulated Thick Tire Spr — Review
+metaDescription: Hands-on notes on Black Magic 120269 Tire Wet Foam - Specially Formulated Thick Tire Spray Foam Clings to Tires to Dis — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 9.94
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0GJTTQ44Q?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0GJTTQ44Q?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0gjttq44q-b0gjttq44q
-cardTitle: B0GJTTQ44Q
+cardTitle: Black Magic 120269 Tire Wet Foam - Specially Formulated Thick Tire Spr
 cardPick: Solid pick for most readers
 tags: []
 ---

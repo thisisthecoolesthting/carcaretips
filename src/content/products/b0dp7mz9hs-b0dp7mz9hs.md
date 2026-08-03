@@ -1,22 +1,22 @@
 ---
 asin: B0DP7MZ9HS
-title: B0DP7MZ9HS
-seoTitle: B0DP7MZ9HS — review
-metaDescription: Hands-on notes on B0DP7MZ9HS.
+title: TEAM UNIQUE Tire Shine Gloss – 18.6 fl oz (Pack of 12) | High-Gloss Tire Shine Spray | UV Protection Against Cracking & Fading | Non-Greasy, Low-Sling Formula for Cars, Trucks & SUVs
+seoTitle: TEAM UNIQUE Tire Shine Gloss – 18.6 fl oz (Pack of 12) | High-Gloss Ti — Review
+metaDescription: Hands-on notes on TEAM UNIQUE Tire Shine Gloss – 18.6 fl oz (Pack of 12) | High-Gloss Tire Shine Spray | UV Protection — what it's good for and where to check current pricing.
 category: general
 price: null
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DP7MZ9HS?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B0DP7MZ9HS?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b0dp7mz9hs-b0dp7mz9hs
-cardTitle: B0DP7MZ9HS
+cardTitle: TEAM UNIQUE Tire Shine Gloss – 18.6 fl oz (Pack of 12) | High-Gloss Ti
 cardPick: Solid pick for most readers
 tags: []
 ---

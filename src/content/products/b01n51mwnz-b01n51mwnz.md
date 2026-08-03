@@ -1,22 +1,22 @@
 ---
 asin: B01N51MWNZ
-title: B01N51MWNZ
-seoTitle: B01N51MWNZ — review
-metaDescription: Hands-on notes on B01N51MWNZ.
+title: Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, 16 oz
+seoTitle: Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim,  — Review
+metaDescription: Hands-on notes on Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, 16 oz — what it's good for and where to check current pricing.
 category: general
-price: null
+price: 9.97
 rating: null
 bsr: null
 commissionPerSale: 0
 score: 0
-imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B01N51MWNZ?tag=carcaretips-20"
+imageUrl: ''
+affiliateUrl: https://www.amazon.com/dp/B01N51MWNZ?tag=carcare-20
 isPrime: false
 status: published
-firstSeen: "2026-06-01"
-lastSeen: "2026-06-01"
+firstSeen: '2026-06-01'
+lastSeen: '2026-08-03T14:58:13+00:00'
 slug: b01n51mwnz-b01n51mwnz
-cardTitle: B01N51MWNZ
+cardTitle: 'Chemical Guys, Tire Kicker Extra Glossy Tire Shine for Rubber & Trim, '
 cardPick: Solid pick for most readers
 tags: []
 ---

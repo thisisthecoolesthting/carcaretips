@@ -6,16 +6,15 @@ tier: mvp
 cardTitle: Best Refillable Glass Spray Bottles for Homemade Cleaners
 cardPick: Concentrates and refill-friendly cleaners that shrink plastic and repeat cost.
 updatedAt: '2026-05-12T09:54:42Z'
-
 relatedProducts:
-- "B001QY8QXM"
-- "B00WSAXBQ0"
-- "B073Q8P6CQ"
-- "B07Z6TV9Y7"
-- "B08PZBPXLZ"
-- "B09DY7CCW5"
-- "B09VXQ221K"
-- "B0BVYBVHK5"
+- B001QY8QXM
+- B00WSAXBQ0
+- B073Q8P6CQ
+- B07Z6TV9Y7
+- B08PZBPXLZ
+- B09DY7CCW5
+- B09VXQ221K
+- B0BVYBVHK5
 status: published
 heroImage: /images/hero/best-refillable-glass-spray-bottles-for-homemade-cleaners.jpg
 subtopic: cleaning
@@ -166,3 +165,12 @@ Choosing the best refillable glass spray bottle hinges on matching bottle sturdi
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[Meguiar's Hot Shine High Gloss Tire Coating, Give Tires a Deep Wet Shine and Lon](/products/b000amxqdg-b000amxqdg/)** — see current price and specs.
+- **[Meguiar's Hot Shine High Gloss Tire Coating, 6 Pack (6 x 15 oz = 90 oz Total) Ae](/products/b004q08hsw-b004q08hsw/)** — see current price and specs.
+- **[CAR GUYS Tire Shine Spray - The Perfect Deep Black Shine - Long Lasting Car Tire](/products/b06y5l9w65-b06y5l9w65/)** — see current price and specs.
+- **[Armor All Tire Shine Spray, Even Shine, Minimal Overspray, 2 Count](/products/b09tcx221k-b09tcx221k/)** — see current price and specs.
+- **[Cristal Products Untouchable Tire Shine Spray – Long-Lasting Wet Tire Finish for](/products/b09wjmkm22-b09wjmkm22/)** — see current price and specs.
+

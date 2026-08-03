@@ -7,14 +7,14 @@ pillarSlug: subscription-creep-busters
 cardTitle: Amazon Prime at $139/Year
 cardPick: Cancel creep and swap to staples that actually lower your monthly burn.
 relatedProducts:
-- "B001EQ4G0O"
-- "B001QY8QXM"
-- "B00CAZAU62"
-- "B00NQ1CLTI"
-- "B073Q8P6CQ"
-- "B07F97MPYT"
-- "B07RVMZNYR"
-- "B083BFPGD8"
+- B001EQ4G0O
+- B001QY8QXM
+- B00CAZAU62
+- B00NQ1CLTI
+- B073Q8P6CQ
+- B07F97MPYT
+- B07RVMZNYR
+- B083BFPGD8
 status: published
 tags:
 - Amazon Prime
@@ -263,3 +263,12 @@ Pay for shipping only when you need it; skip memberships entirely.
 </div>
 </a>
 </div>
+
+## Our picks worth a closer look
+
+- **[BlueDriver OBD2 Scanner Bluetooth, No Subscription, ABS SRS TPMS](/products/b00652g4ts-b00652g4ts/)** — see current price and specs.
+- **[Amazon Basics AA Performance Alkaline Batteries, 48-Count](/products/b01n5ib20q-amazon-basics-aa-batteries-48-pack/)** — see current price and specs.
+- **[Tide PODS Laundry Detergent Soap Pods, Original Scent, 112 Count](/products/b07qr6z1jb-tide-pods-laundry-detergent-112-count/)** — see current price and specs.
+- **[Amazon Basics Microfiber Car Drying Towels, Highly Absorbent, Lint Free, Scratch](/products/b0cy2xw4gb-b0cy2xw4gb/)** — see current price and specs.
+- **[UJS Rocco OBD2 Scanner Bluetooth for iOS Android, AI Diagnostic Tool for Car Buy](/products/b0fsc4y2mh-b0fsc4y2mh/)** — see current price and specs.
+
