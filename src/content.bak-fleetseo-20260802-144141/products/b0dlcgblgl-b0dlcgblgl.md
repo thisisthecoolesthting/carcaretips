@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B0DLCGBLGL?tag=carcaretips-20"
+affiliateUrl: "https://www.amazon.com/dp/B0DLCGBLGL"
 isPrime: false
 status: published
 firstSeen: "2026-06-01"

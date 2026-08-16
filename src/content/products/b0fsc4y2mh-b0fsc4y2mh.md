@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ''
-affiliateUrl: https://www.amazon.com/dp/B0FSC4Y2MH?tag=carcare-20
+affiliateUrl: https://www.amazon.com/dp/B0FSC4Y2MH
 isPrime: false
 status: published
 firstSeen: '2026-06-01'
